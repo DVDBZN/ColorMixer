@@ -1,0 +1,39 @@
+C:\Users\dbozin60\OneDrive\CS111_SI\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.config
+C:\Users\dbozin60\OneDrive\CS111_SI\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe
+C:\Users\dbozin60\OneDrive\CS111_SI\ColorMixer\ColorMixer\bin\Debug\ColorMixer.pdb
+C:\Users\dbozin60\OneDrive\CS111_SI\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csprojResolveAssemblyReference.cache
+C:\Users\dbozin60\OneDrive\CS111_SI\ColorMixer\ColorMixer\obj\Debug\ColorMixer.ColorMixer.resources
+C:\Users\dbozin60\OneDrive\CS111_SI\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Properties.Resources.resources
+C:\Users\dbozin60\OneDrive\CS111_SI\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.GenerateResource.Cache
+C:\Users\dbozin60\OneDrive\CS111_SI\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe
+C:\Users\dbozin60\OneDrive\CS111_SI\ColorMixer\ColorMixer\obj\Debug\ColorMixer.pdb
+C:\Users\David\OneDrive\CS111_SI\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csprojResolveAssemblyReference.cache
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csprojAssemblyReference.cache
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.pdb
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.config
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.manifest
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.application
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.pdb
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.ColorMixer.resources
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Properties.Resources.resources
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.GenerateResource.cache
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.CoreCompileInputs.cache
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe.manifest
+H:\School Related\Classwork\BBCC\2016 Spring\CS111_SI\SI Work\PR Assignment 20 Color Mixer\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.application
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.config
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.manifest
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.application
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.pdb
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.ColorMixer.resources
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Properties.Resources.resources
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.GenerateResource.cache
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.CoreCompileInputs.cache
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe.manifest
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.application
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.pdb
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csprojAssemblyReference.cache
+H:\Projects\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.TrustInfo.xml
